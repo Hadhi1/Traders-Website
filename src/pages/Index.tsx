@@ -9,7 +9,7 @@ const Index = () => {
   const brands = [
     { name: 'ACC', tagline: 'India\'s Leading Cement' },
     { name: 'Ambuja', tagline: 'Strong. Durable. Reliable.' },
-    { name: 'Coramandel', tagline: 'Quality Fertilizers' },
+    { name: 'Coramandel', tagline: 'Quality Cement' },
     { name: 'Ultratech', tagline: 'Engineer\'s Choice' },
     { name: 'JSW Steel', tagline: 'Excellence in Steel' },
     { name: 'Tata Steel', tagline: 'Trust & Quality' },
